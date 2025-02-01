@@ -1,2 +1,3 @@
 # tailwind-starter
-A Tailwind starter repository, sets the staget to try out TailwindCSS
+
+A Tailwind starter repository, sets the stage to try out TailwindCSS
